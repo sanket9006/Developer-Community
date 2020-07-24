@@ -10,7 +10,6 @@ The process is very simple
 4) Push pull request
 
 
-
 1) Fork the repository
 
         Forking a repository is a simple two-step process.
