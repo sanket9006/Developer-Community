@@ -10,8 +10,8 @@ The process is very simple
 4) Push pull request
 
 
-1) Fork the repository
+        1) Fork the repository
 
-        Forking a repository is a simple two-step process.
-        On GitHub, navigate to the sanket9006/Developers-Community repository.
-        In the top-right corner of the page, click Fork.
+                Forking a repository is a simple two-step process.
+                On GitHub, navigate to the sanket9006/Developers-Community repository.
+                In the top-right corner of the page, click Fork.
