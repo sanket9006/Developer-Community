@@ -8,3 +8,11 @@ The process is very simple
 2) Go to your forked repository
 3) Commit changes
 4) Push pull request
+
+
+
+1) Fork the repository
+
+        Forking a repository is a simple two-step process.
+        On GitHub, navigate to the sanket9006/Developers-Community repository.
+        In the top-right corner of the page, click Fork.
